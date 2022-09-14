@@ -1,0 +1,39 @@
+/*  */
+
+.textcenter {
+    text-align: center;
+}
+
+.h1 {
+    font-size: 50px;
+    color: rgb(88, 2, 2);
+    text-align: center;
+    text-decoration: underline overline
+    }
+
+.h2 {
+    font-size: 30px;
+    color: rgb(100, 3, 3);
+    text-align: center;
+    text-decoration: underline
+}
+
+.h3 {
+    font-size: 25px;
+    color: rgb(153, 4, 4);
+    text-align: center;
+    text-decoration: underline
+}
+
+.li {
+    color:rgb(31, 0, 0);
+    font-size: 20px;
+    text-align: center;
+    text-decoration:wavy
+}
+
+.p {
+    color:rgb(22, 0, 0);
+    font-size: 15px;
+    text-align: justify;
+}
